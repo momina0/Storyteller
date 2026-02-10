@@ -252,3 +252,6 @@ For questions or issues, please open an issue in this repository.
 ---
 
 **Built with ❤️ using PyTorch and Gradio**
+
+<img width="1910" height="893" alt="image" src="https://github.com/user-attachments/assets/69396d82-b69c-4292-acb1-4fb775297a0b" />
+
